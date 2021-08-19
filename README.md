@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaryaBurela02
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning frontend
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me f20201867@pilani.bits-pilani.ac.in
 
